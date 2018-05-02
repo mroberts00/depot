@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: carrots.jpeg
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: carrots.jpeg
+  price: 9.99
+
+carrots: 
+  title: Carrots
+  description: They're orange! They used to be purple but now they're not. Some people think they help you see better in the dark, but I don't believe them. They're crazy, man. 
+  image_url: carrots.jpeg
+  price: 2.85
